@@ -1350,7 +1350,355 @@
 					<Child>
 						<value.first>UniversalLibrary</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
+							<Child>
+								<value.first>Motor</value.first>
+								<value.second>
+									<Expanded>1</Expanded>
+									<Child>
+										<value.first>IAI_SCON2_CG_SM_EC</value.first>
+										<value.second>
+											<Expanded>1</Expanded>
+											<Child>
+												<value.first>MC_ABSEncoderSetup_IAI_SCON2_CG_SM_EC_V100:ABSエンコーダセットアップ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check SDO read result check</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check SDO read values</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check done function execution loop</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check function execution result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check skip function execution result check</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Control step</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Done check function execution result</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Execute SDO read</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Execute function loop</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Initialize parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read SDO</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read SDO for Read-Modify-Write</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Read SDO for zero-clear</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Request timer start</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Start FB</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update local variables</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write SDO for Read-Modify-Write</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Write SDO for zero-clear</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state (check SDO read result)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state (check function execution result)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state (execute SDO read)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-state (function execution loop)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step (check SDO read result)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step (check function execution result)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step (execute SDO read)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>_Sub-step (function execution loop)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>MC_Home_IAI_SCON2_CG_SM_EC_V100:原点復帰(IAI)</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>FB: Error handling</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>FB: Initialize parameters</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>FB: Restore ProgramError</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>FB: Save previous state</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>FB: Start</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>FB: State processing</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>FB: State transition </value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>FB: Update arguments</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>IAI: Abort</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>IAI: Homing(Request)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>IAI: Homing(Wait)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>KV: Homing</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>KV: Homing(FB mode)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>KV: Homing(Relay mode)</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>KV: Waiting servoOff IAI</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Notice: To resolve warnings during project conversion in relay m...</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>MC_ModelCheck_IAI_SCON2_CG_SM_EC_V100:機種確認</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+													<Child>
+														<value.first>ブックマーク</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+															<Child>
+																<value.first>Check function</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Check model</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+															<Child>
+																<value.first>Update output</value.first>
+																<value.second>
+																	<Expanded>0</Expanded>
+																</value.second>
+															</Child>
+														</value.second>
+													</Child>
+													<Child>
+														<value.first>ローカル変数</value.first>
+														<value.second>
+															<Expanded>0</Expanded>
+														</value.second>
+													</Child>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 				</value.second>
@@ -2452,7 +2800,7 @@
 							<Child>
 								<value.first>EtherCAT</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>[1] GADS-EtheCAT(P0021375D01:28.April,2023)</value.first>
 										<value.second>
@@ -2472,7 +2820,25 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>[4] RCON-GW-ECM</value.first>
+										<value.first>[4] SCON2-CG-M-EC</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>[5] SCON2-CG-M-EC</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>[6] SCON2-CG-M-EC</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>[7] SCON2-CG-M-EC</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -2506,7 +2872,7 @@
 							<Child>
 								<value.first>モーション設定</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ポイントパラメータ</value.first>
 										<value.second>
@@ -2582,7 +2948,7 @@
 									<Child>
 										<value.first>軸グループ設定</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>Crawler</value.first>
 												<value.second>
@@ -2590,25 +2956,25 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>Leaf_L</value.first>
+												<value.first>Leaf_l</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>Leaf_R</value.first>
+												<value.first>Leaf_r</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>Stem_L</value.first>
+												<value.first>Stem_l</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>Stem_R</value.first>
+												<value.first>Stem_r</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2624,75 +2990,75 @@
 									<Child>
 										<value.first>軸設定</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
-												<value.first>軸10:Stem_I_R</value.first>
+												<value.first>軸10:Stem_I_r</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸11:Stem_O_L</value.first>
+												<value.first>軸11:Stem_O_l</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸12:Stem_I_L</value.first>
+												<value.first>軸12:Stem_I_l</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸1:Crawler_R</value.first>
+												<value.first>軸1:Crawler_r</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸2:Crawler_L</value.first>
+												<value.first>軸2:Crawler_l</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸3:Leaf_X_R</value.first>
+												<value.first>軸3:Leaf_X_r</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸4:Leaf_X_L</value.first>
+												<value.first>軸4:Leaf_X_l</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸5:Leaf_Y_R</value.first>
+												<value.first>軸5:Leaf_Y_r</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸6:Leaf_Y_L</value.first>
+												<value.first>軸6:Leaf_Y_l</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸7:Leaf_Z_R</value.first>
+												<value.first>軸7:Leaf_Z_r</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸8:Leaf_Z_L</value.first>
+												<value.first>軸8:Leaf_Z_l</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸9:Stem_O_R</value.first>
+												<value.first>軸9:Stem_O_r</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
