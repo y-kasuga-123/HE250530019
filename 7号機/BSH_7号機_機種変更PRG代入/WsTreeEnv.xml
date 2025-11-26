@@ -500,11 +500,23 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>POSCTL:位置決め制御格納変数</value.first>
+								<value.first>POSCTRL:位置決め制御格納変数</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>FLD_PNT</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>FLD_PNTS</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
@@ -788,6 +800,54 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
+								<value.first>MC_AccDecWrite_org:加減速書込</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>Initialization</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>Main</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>MC_Control</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>MC_HOME_org:原点復帰</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -875,24 +935,6 @@
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>MC_Control</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-							<Child>
-								<value.first>ブックマーク</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>ローカル変数</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 						</value.second>
@@ -1272,7 +1314,7 @@
 					<Child>
 						<value.first>UniversalLibrary</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>Motor</value.first>
 								<value.second>
@@ -1349,6 +1391,186 @@
 											</Child>
 											<Child>
 												<value.first>運転記録判別用</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Axis001 [7]:クローラ_右</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>CoE SDO交信</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>JOG運転</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>バッファメモリ交信</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>フラグリセット</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>位置決め制御</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点復帰</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在座標</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Axis002 [8]:クローラ_左</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>CoE SDO交信</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>JOG運転</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>バッファメモリ交信</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>フラグリセット</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>位置決め制御</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点復帰</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在座標</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Axis003 [9]:外葉カットX軸_右</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>1</Expanded>
+											<Child>
+												<value.first>CoE SDO交信</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>JOG運転</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>バッファメモリ交信</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>フラグリセット</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>位置決め制御</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点復帰</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在座標</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -1448,6 +1670,48 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>Jetson1 [10]</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>Jetson1_ステータス</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>検出画像  ＦＴＰ転送</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>花蕾検出処理</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>Ｉ／Ｏ制御</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>Main [3]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -1521,50 +1785,158 @@
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Output [12]:出力</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
 											<Child>
-												<value.first>軸１  クローラ(右)</value.first>
+												<value.first>KV-NC32ETE</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸２  クローラ(左)</value.first>
+												<value.first>KV-SIR32XT</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸３  外葉Ｘ軸(左)</value.first>
+												<value.first>┗ OUT101 [#16] - [#31]</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸４  外葉Ｘ軸(右)</value.first>
+												<value.first>┗ R300 - R315</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸５  外葉Ｙ軸(左)</value.first>
+												<value.first>┣ OUT101 [#0] - [#15]</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸６  外葉Ｙ軸(右)</value.first>
+												<value.first>┣ R200 - R215</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>TouchPanel [11]:タッチパネル</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>まとめて操作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸７  外葉Ｚ軸(左)</value.first>
+												<value.first>グローバルウィンドウ表示</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>軸８  外葉Ｚ軸(右)</value.first>
+												<value.first>メイン画面</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>メンテナンス</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>原点セット画面</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>収穫マップ＆自動起動回数リセット</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>収穫準備画面</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>収穫運転モニタ画面</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>手動画面</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>数値表示</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>機械設定画面</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>状態表示</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在座標データ型変換</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>画面切換</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
