@@ -2,12 +2,7 @@
 <WindowInfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
   <GlobalVariable>
     <GroupFilters>
-      <Name>Axis</Name>
-      <Name>FlowerBud_info</Name>
-      <Name>judgeTole</Name>
-      <Name>Logging</Name>
-      <Name>Recipe</Name>
-      <Name>Tracking_info</Name>
+      <Name>(Default)</Name>
     </GroupFilters>
   </GlobalVariable>
   <Motion>
