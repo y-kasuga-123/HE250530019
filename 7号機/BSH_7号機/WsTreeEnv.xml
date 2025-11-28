@@ -486,7 +486,7 @@
 					<Child>
 						<value.first>AutoTrack</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>EV_DATA</value.first>
 								<value.second>
@@ -1420,108 +1420,6 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>Move</value.first>
-						<value.second>
-							<Expanded>1</Expanded>
-							<Child>
-								<value.first>LeafRem:外葉ｶｯﾄｻｲｸﾙ</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>エラーチェック</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>サイクル</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>マスターコントロール</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>出力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>初期化</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
-								<value.first>StemCut:茎ｶｯﾄｻｲｸﾙ</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-											<Child>
-												<value.first>エラーチェック</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>サイクル</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>マスターコントロール</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>出力</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>初期化</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-						</value.second>
-					</Child>
-					<Child>
 						<value.first>PWM</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -1924,11 +1822,11 @@
 							<Child>
 								<value.first>Auto [8]:自動</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>外葉カット  １条目</value.first>
 												<value.second>
@@ -2474,6 +2372,42 @@
 								</value.second>
 							</Child>
 							<Child>
+								<value.first>Jetson共通 [23]</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>パラメータ</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>レシピ変更</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>受信データ置換</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>KV_SSC02 [17]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -2517,12 +2451,6 @@
 										<value.first>ブックマーク</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
-											<Child>
-												<value.first>動作数値  演算</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
 											<Child>
 												<value.first>１条目  動作</value.first>
 												<value.second>
