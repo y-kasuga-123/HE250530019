@@ -486,7 +486,7 @@
 					<Child>
 						<value.first>AutoTrack</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>EV_DATA</value.first>
 								<value.second>
@@ -1422,7 +1422,7 @@
 					<Child>
 						<value.first>Move</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>LeafRem:外葉ｶｯﾄｻｲｸﾙ</value.first>
 								<value.second>
@@ -1802,7 +1802,7 @@
 						<value.second>
 							<Expanded>1</Expanded>
 							<Child>
-								<value.first>TP_auto_track [18]:自動補正走行画面</value.first>
+								<value.first>TP_auto_track [22]:自動補正走行画面</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -1994,7 +1994,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AutoTrack [17]:自動補正走行</value.first>
+								<value.first>AutoTrack [21]:自動補正走行</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2084,7 +2084,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis001 [10]:クローラ_右</value.first>
+								<value.first>Axis001 [14]:クローラ_右</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2144,7 +2144,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis002 [11]:クローラ_左</value.first>
+								<value.first>Axis002 [15]:クローラ_左</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2204,7 +2204,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Axis003 [12]:外葉カットX軸_右</value.first>
+								<value.first>Axis003 [16]:外葉カットX軸_右</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2249,6 +2249,78 @@
 											</Child>
 											<Child>
 												<value.first>現在座標</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Clawler [11]:ｸﾛｰﾗ動作</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>クローラ動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>畝端旋回</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>移動モード動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>自動収穫モード動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>自動操舵システム</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Conveyor [12]:ｺﾝﾍﾞｱ動作</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>コンベア動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2366,7 +2438,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Jetson1 [13]:Jetson1通信</value.first>
+								<value.first>Jetson1 [18]:Jetson1通信</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2408,7 +2480,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KV_SSC02 [16]</value.first>
+								<value.first>KV_SSC02 [17]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2429,6 +2501,42 @@
 											</Child>
 											<Child>
 												<value.first>現在値演算</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>LeafRemove [9]:外葉ｶｯﾄ動作</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>動作数値  演算</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>１条目  動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>２条目  動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2504,7 +2612,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Motion [9]:KV-X520</value.first>
+								<value.first>Motion [13]:KV-X520</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2528,7 +2636,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Output [15]:出力</value.first>
+								<value.first>Output [20]:出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2582,7 +2690,37 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TouchPanel [14]:タッチパネル</value.first>
+								<value.first>StemCutting [10]:茎ｶｯﾄ動作</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>１条目  動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>２条目  動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>TouchPanel [19]:タッチパネル</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2772,7 +2910,7 @@
 					<Child>
 						<value.first>[0]  KV-X520</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>EtherCAT</value.first>
 								<value.second>
@@ -2848,7 +2986,7 @@
 							<Child>
 								<value.first>モーション設定</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ポイントパラメータ</value.first>
 										<value.second>
@@ -3066,7 +3204,7 @@
 					<Child>
 						<value.first>[4]  KV-XL202    R61000  DM10600</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>ユニットプログラム</value.first>
 								<value.second>
