@@ -8,7 +8,7 @@
 			<Child>
 				<value.first>データ型</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>(System)</value.first>
 						<value.second>
@@ -1038,7 +1038,7 @@
 					<Child>
 						<value.first>Data</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>AccumulatedTime:積算時間</value.first>
 								<value.second>
@@ -1822,7 +1822,7 @@
 							<Child>
 								<value.first>Auto [8]:自動</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -2856,25 +2856,25 @@
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>[4] SCON2-CG-M-EC</value.first>
+										<value.first>[4] RC-ECT-FMOD3(32Byte/32Byte)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>[5] SCON2-CG-M-EC</value.first>
+										<value.first>[5] RC-ECT-FMOD3(32Byte/32Byte)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>[6] SCON2-CG-M-EC</value.first>
+										<value.first>[6] RC-ECT-FMOD3(32Byte/32Byte)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>[7] SCON2-CG-M-EC</value.first>
+										<value.first>[7] RC-ECT-FMOD3(32Byte/32Byte)</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -2884,7 +2884,7 @@
 							<Child>
 								<value.first>EtherNet/IP   R30000  DM10000</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>[1-0]KV-EP02</value.first>
 										<value.second>
@@ -2960,7 +2960,7 @@
 									<Child>
 										<value.first>同期制御設定</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>カム設定</value.first>
 												<value.second>
@@ -3028,24 +3028,6 @@
 										<value.second>
 											<Expanded>1</Expanded>
 											<Child>
-												<value.first>軸10:Stem_I_r</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>軸11:Stem_O_l</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>軸12:Stem_I_l</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>軸1:Crawler_r</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -3093,12 +3075,6 @@
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
-											<Child>
-												<value.first>軸9:Stem_O_r</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
 										</value.second>
 									</Child>
 								</value.second>
@@ -3106,27 +3082,9 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>[1]  KV-SAD04    R400    DM10400</value.first>
+						<value.first>[1]  KV-XL202    R61000  DM10600</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>[2]  KV-SIR32XT  R000/R200 -----</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>[3]  KV-SSC02    R60000  DM10500</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>[4]  KV-XL202    R61000  DM10600</value.first>
-						<value.second>
-							<Expanded>1</Expanded>
 							<Child>
 								<value.first>ユニットプログラム</value.first>
 								<value.second>
@@ -3141,12 +3099,30 @@
 							</Child>
 						</value.second>
 					</Child>
+					<Child>
+						<value.first>[2]  KV-SAD04    R400    DM10400</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>[3]  KV-SIR32XT  R000/R200 -----</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>[4]  KV-SSC02    R60000  DM10500</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
 				</value.second>
 			</Child>
 			<Child>
 				<value.first>変数</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>(Default)</value.first>
 						<value.second>
