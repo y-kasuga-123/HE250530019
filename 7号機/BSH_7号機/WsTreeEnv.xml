@@ -12,7 +12,7 @@
 					<Child>
 						<value.first>(System)</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>_ACCESS_WINDOW</value.first>
 								<value.second>
@@ -1212,7 +1212,7 @@
 					<Child>
 						<value.first>MC</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>MC_AccDecWrite_org:加減速書込</value.first>
 								<value.second>
@@ -2116,6 +2116,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>シフト</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>バッファメモリ交信</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -2307,6 +2313,12 @@
 										<value.first>ブックマーク</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
+											<Child>
+												<value.first>KV-SAD04</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
 											<Child>
 												<value.first>KV-SIR32XT</value.first>
 												<value.second>
@@ -2884,7 +2896,7 @@
 							<Child>
 								<value.first>EtherNet/IP   R30000  DM10000</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>[1-0]KV-EP02</value.first>
 										<value.second>
@@ -2918,7 +2930,7 @@
 									<Child>
 										<value.first>モーションツール</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>オートチューニング</value.first>
 												<value.second>
@@ -2984,7 +2996,7 @@
 									<Child>
 										<value.first>軸グループ設定</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>Crawler</value.first>
 												<value.second>
@@ -3026,7 +3038,7 @@
 									<Child>
 										<value.first>軸設定</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>軸1:Crawler_r</value.first>
 												<value.second>
