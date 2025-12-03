@@ -2056,6 +2056,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>位置決め速度オーバーライド変更</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>初期設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -2117,6 +2123,12 @@
 											</Child>
 											<Child>
 												<value.first>位置決め制御</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>位置決め速度オーバーライド変更</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -2555,6 +2567,12 @@
 											<Expanded>0</Expanded>
 											<Child>
 												<value.first>クローラ動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>左右旋回</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3444,7 +3462,7 @@
 					<Child>
 						<value.first>[0]  KV-X520</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>EtherCAT</value.first>
 								<value.second>
@@ -3734,7 +3752,7 @@
 			<Child>
 				<value.first>変数</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>(Default)</value.first>
 						<value.second>
