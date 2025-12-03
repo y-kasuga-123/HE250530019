@@ -8,7 +8,7 @@
 			<Child>
 				<value.first>データ型</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>(System)</value.first>
 						<value.second>
@@ -1080,7 +1080,7 @@
 					<Child>
 						<value.first>Data</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>AccumulatedTime:積算時間</value.first>
 								<value.second>
@@ -1254,7 +1254,7 @@
 					<Child>
 						<value.first>MC</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>MC_AccDecWrite_org:加減速書込</value.first>
 								<value.second>
@@ -1464,7 +1464,7 @@
 					<Child>
 						<value.first>PWM</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>PWMcontrol_ms:PWM制御（周期ms）</value.first>
 								<value.second>
@@ -1704,7 +1704,7 @@
 					<Child>
 						<value.first>定周期モジュール</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>auto_track_interval [1]</value.first>
 								<value.second>
@@ -1740,9 +1740,9 @@
 					<Child>
 						<value.first>待機モジュール</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
-								<value.first>TP_auto_track [29]:自動補正走行画面</value.first>
+								<value.first>TP_auto_track [33]:自動補正走行画面</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -1928,7 +1928,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AutoTrack [28]:自動補正走行</value.first>
+								<value.first>AutoTrack [32]:自動補正走行</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2726,7 +2726,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Jetson1 [23]:Jetson1通信</value.first>
+								<value.first>Jetson1 [27]:Jetson1通信</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2768,7 +2768,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Jetson2 [24]</value.first>
+								<value.first>Jetson2 [28]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2810,7 +2810,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>JetsonComm [25]</value.first>
+								<value.first>JetsonComm [29]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2846,7 +2846,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KV_SSC02 [22]</value.first>
+								<value.first>KV_SSC02 [26]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2996,7 +2996,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Output [27]:出力</value.first>
+								<value.first>Output [31]:出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3056,7 +3056,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>SCON_Axis001 [30]:茎カット外軸_右</value.first>
+								<value.first>SCON_Axis001 [22]:茎カット外軸_右</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3098,7 +3098,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>SCON_Axis002 [31]:茎カット外軸_右</value.first>
+								<value.first>SCON_Axis002 [23]:茎カット外軸_右</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3107,6 +3107,12 @@
 											<Expanded>0</Expanded>
 											<Child>
 												<value.first>OUT</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>初期設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3134,7 +3140,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>SCON_Axis003 [32]:茎カット外軸_右</value.first>
+								<value.first>SCON_Axis003 [24]:茎カット外軸_右</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3143,6 +3149,12 @@
 											<Expanded>0</Expanded>
 											<Child>
 												<value.first>OUT</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>初期設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3170,7 +3182,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>SCON_Axis004 [33]:茎カット外軸_右</value.first>
+								<value.first>SCON_Axis004 [25]:茎カット外軸_右</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3179,6 +3191,12 @@
 											<Expanded>0</Expanded>
 											<Child>
 												<value.first>OUT</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>初期設定</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3236,7 +3254,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TouchPanel [26]:タッチパネル</value.first>
+								<value.first>TouchPanel [30]:タッチパネル</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3426,11 +3444,11 @@
 					<Child>
 						<value.first>[0]  KV-X520</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>EtherCAT</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>[1] GADS-EtheCAT(P0021375D01:28.April,2023)</value.first>
 										<value.second>
