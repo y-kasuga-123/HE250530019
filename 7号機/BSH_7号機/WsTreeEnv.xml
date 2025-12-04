@@ -8,7 +8,7 @@
 			<Child>
 				<value.first>データ型</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>(System)</value.first>
 						<value.second>
@@ -488,6 +488,12 @@
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
+								<value.first>CNTER</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
 								<value.first>EV_DATA</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -501,6 +507,18 @@
 							</Child>
 							<Child>
 								<value.first>FLD_MAP</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>FLD_PNT</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>FLD_PNTS</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -529,24 +547,6 @@
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>CNTER</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>FLD_PNT</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>FLD_PNTS</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
@@ -580,18 +580,6 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>KV_EP02_IN100</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>KV_EP02_OUT101</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
 						<value.first>LOGGING</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
@@ -613,12 +601,42 @@
 						<value.first>Motor</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
+							<Child>
+								<value.first>MOTORCTRL:モーター制御格納変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>MOTORPARA:モーターパラメータ</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
 						<value.first>RECIPE:レシピ</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>RemoteIO</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>KV_EP02_IN100</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>KV_EP02_OUT101</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
@@ -1742,7 +1760,7 @@
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
-								<value.first>TP_auto_track [33]:自動補正走行画面</value.first>
+								<value.first>TP_auto_track [37]:自動補正走行画面</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -1928,7 +1946,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>AutoTrack [32]:自動補正走行</value.first>
+								<value.first>AutoTrack [36]:自動補正走行</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2024,7 +2042,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>CoE SDO交信</value.first>
 												<value.second>
@@ -2168,7 +2186,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>CoE SDO交信</value.first>
 												<value.second>
@@ -2716,12 +2734,6 @@
 										<value.second>
 											<Expanded>0</Expanded>
 											<Child>
-												<value.first>KV-SAD04</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
 												<value.first>KV-SIR32XT</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
@@ -2744,7 +2756,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Jetson1 [27]:Jetson1通信</value.first>
+								<value.first>Jetson1 [31]:Jetson1通信</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2786,7 +2798,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Jetson2 [28]</value.first>
+								<value.first>Jetson2 [32]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2828,7 +2840,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>JetsonComm [29]</value.first>
+								<value.first>JetsonComm [33]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -2864,7 +2876,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KV_SSC02 [26]</value.first>
+								<value.first>KV_SSC02 [30]</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3014,7 +3026,151 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Output [31]:出力</value.first>
+								<value.first>Motor001 [26]:回収コンベア</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>初期設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>動作制御</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在座標</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Motor002 [27]:外葉押え昇降</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>初期設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>動作制御</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在座標</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Motor003 [28]:カメラ昇降_右</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>初期設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>動作制御</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在座標</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Motor004 [29]:カメラ昇降_右</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>初期設定</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>動作制御</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在座標</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>Output [35]:出力</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3074,7 +3230,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>SCON_Axis001 [22]:茎カット外軸_右</value.first>
+								<value.first>SCON_Axis009 [22]:茎カット外軸_右</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3082,7 +3238,19 @@
 										<value.second>
 											<Expanded>0</Expanded>
 											<Child>
+												<value.first>JOG</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>OUT</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>位置決め制御</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3101,6 +3269,12 @@
 											</Child>
 											<Child>
 												<value.first>状態信号</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在位置</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3116,7 +3290,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>SCON_Axis002 [23]:茎カット外軸_右</value.first>
+								<value.first>SCON_Axis010 [23]:茎カット外軸_右</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3124,7 +3298,19 @@
 										<value.second>
 											<Expanded>0</Expanded>
 											<Child>
+												<value.first>JOG</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>OUT</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>位置決め制御</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3143,6 +3329,12 @@
 											</Child>
 											<Child>
 												<value.first>状態信号</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在位置</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3158,7 +3350,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>SCON_Axis003 [24]:茎カット外軸_右</value.first>
+								<value.first>SCON_Axis011 [24]:茎カット外軸_右</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3166,7 +3358,19 @@
 										<value.second>
 											<Expanded>0</Expanded>
 											<Child>
+												<value.first>JOG</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>OUT</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>位置決め制御</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3185,6 +3389,12 @@
 											</Child>
 											<Child>
 												<value.first>状態信号</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在位置</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3200,7 +3410,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>SCON_Axis004 [25]:茎カット外軸_右</value.first>
+								<value.first>SCON_Axis012 [25]:茎カット外軸_右</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3208,7 +3418,19 @@
 										<value.second>
 											<Expanded>0</Expanded>
 											<Child>
+												<value.first>JOG</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>OUT</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>位置決め制御</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3227,6 +3449,12 @@
 											</Child>
 											<Child>
 												<value.first>状態信号</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>現在位置</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3272,7 +3500,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>TouchPanel [30]:タッチパネル</value.first>
+								<value.first>TouchPanel [34]:タッチパネル</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3382,7 +3610,13 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>カメラ昇降</value.first>
+												<value.first>カメラ昇降　右</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>カメラ昇降　左</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3406,7 +3640,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>外葉押さえ</value.first>
+												<value.first>外葉押え</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3752,7 +3986,7 @@
 			<Child>
 				<value.first>変数</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>(Default)</value.first>
 						<value.second>
@@ -3779,6 +4013,12 @@
 					</Child>
 					<Child>
 						<value.first>Logging</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>Motor</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 						</value.second>
