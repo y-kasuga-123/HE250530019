@@ -4250,7 +4250,7 @@
 									<Child>
 										<value.first>軸設定</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>軸1:Crawler_r</value.first>
 												<value.second>
