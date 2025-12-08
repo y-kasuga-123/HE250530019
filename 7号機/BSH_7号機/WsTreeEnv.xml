@@ -8,7 +8,7 @@
 			<Child>
 				<value.first>データ型</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>(System)</value.first>
 						<value.second>
@@ -2116,7 +2116,7 @@
 							<Child>
 								<value.first>Auto [8]:自動</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
