@@ -1650,7 +1650,7 @@
 					<Child>
 						<value.first>Moter</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>IndMotor_ActPos:ｲﾝﾀﾞｸｼｮﾝﾓｰﾀｰ現在座標</value.first>
 								<value.second>
@@ -1716,7 +1716,7 @@
 					<Child>
 						<value.first>PWM</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>PWMcontrol_ms:PWM制御（周期ms）</value.first>
 								<value.second>
