@@ -1332,7 +1332,7 @@
 					<Child>
 						<value.first>Data</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>AccumulatedTime:積算時間</value.first>
 								<value.second>
@@ -1650,7 +1650,7 @@
 					<Child>
 						<value.first>Moter</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>IndMotor_ActPos:ｲﾝﾀﾞｸｼｮﾝﾓｰﾀｰ現在座標</value.first>
 								<value.second>
@@ -1716,7 +1716,7 @@
 					<Child>
 						<value.first>PWM</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>PWMcontrol_ms:PWM制御（周期ms）</value.first>
 								<value.second>
@@ -1806,7 +1806,7 @@
 					<Child>
 						<value.first>Recipe</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>RecipeDelete:レシピデリート</value.first>
 								<value.second>
