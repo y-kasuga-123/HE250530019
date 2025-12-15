@@ -3076,6 +3076,12 @@
 										<value.second>
 											<Expanded>0</Expanded>
 											<Child>
+												<value.first>KV-SAD04</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>KV-SIR32XT</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
