@@ -2134,6 +2134,12 @@
 												</value.second>
 											</Child>
 											<Child>
+												<value.first>手動複数動作</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
 												<value.first>自動運転</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
