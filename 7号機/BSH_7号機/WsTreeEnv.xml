@@ -4137,6 +4137,12 @@
 										<value.first>[2-0]WH-EP02</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
+											<Child>
+												<value.first>[1]  WH-01</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
 										</value.second>
 									</Child>
 								</value.second>
