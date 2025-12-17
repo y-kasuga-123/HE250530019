@@ -1737,6 +1737,42 @@
 							</Child>
 						</value.second>
 					</Child>
+					<Child>
+						<value.first>TrackingControlL</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>TrackingControlR</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
 				</value.second>
 			</Child>
 			<Child>
@@ -1967,6 +2003,12 @@
 											</Child>
 											<Child>
 												<value.first>茎カット  ２条目</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+											<Child>
+												<value.first>追跡  １条目</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
