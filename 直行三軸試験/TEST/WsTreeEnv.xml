@@ -754,7 +754,7 @@
 							<Child>
 								<value.first>Axis001 [2]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -842,24 +842,6 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Control [6]</value.first>
-								<value.second>
-									<Expanded>0</Expanded>
-									<Child>
-										<value.first>ブックマーク</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-									<Child>
-										<value.first>ローカル変数</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
-								</value.second>
-							</Child>
-							<Child>
 								<value.first>LeafRemove [5]:外葉ｶｯﾄ動作</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
@@ -915,6 +897,24 @@
 													<Expanded>0</Expanded>
 												</value.second>
 											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>monitor [6]</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
 									<Child>
