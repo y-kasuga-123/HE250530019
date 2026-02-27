@@ -8,7 +8,7 @@
 			<Child>
 				<value.first>データ型</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>(System)</value.first>
 						<value.second>
@@ -1150,33 +1150,21 @@
 						</value.second>
 					</Child>
 					<Child>
-						<value.first>CAN</value.first>
+						<value.first>CAN_CLEAR</value.first>
 						<value.second>
 							<Expanded>0</Expanded>
 							<Child>
-								<value.first>CAN_CLEAR</value.first>
+								<value.first>ブックマーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
-										<value.first>ブックマーク</value.first>
+										<value.first>END</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>ローカル変数</value.first>
+										<value.first>ENDH</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -1184,29 +1172,29 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CAN_DELETE</value.first>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>CAN_DELETE</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
-										<value.first>ブックマーク</value.first>
+										<value.first>END</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>ローカル変数</value.first>
+										<value.first>ENDH</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -1214,29 +1202,29 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CAN_INSERT</value.first>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>CAN_INSERT</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
-										<value.first>ブックマーク</value.first>
+										<value.first>END</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>ローカル変数</value.first>
+										<value.first>ENDH</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -1244,29 +1232,29 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CNT_ADD</value.first>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>CNT_ADD</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
-										<value.first>ブックマーク</value.first>
+										<value.first>END</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>ローカル変数</value.first>
+										<value.first>ENDH</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -1274,29 +1262,29 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CNT_CLEAR</value.first>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>CNT_CLEAR</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
-										<value.first>ブックマーク</value.first>
+										<value.first>END</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>ローカル変数</value.first>
+										<value.first>ENDH</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
@@ -1304,33 +1292,39 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>CNT_SUB</value.first>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>CNT_SUB</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
-										<value.first>ブックマーク</value.first>
+										<value.first>END</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
-											<Child>
-												<value.first>END</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
-											<Child>
-												<value.first>ENDH</value.first>
-												<value.second>
-													<Expanded>0</Expanded>
-												</value.second>
-											</Child>
 										</value.second>
 									</Child>
 									<Child>
-										<value.first>ローカル変数</value.first>
+										<value.first>ENDH</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 						</value.second>
@@ -2146,11 +2140,11 @@
 							<Child>
 								<value.first>Auto [8]:自動</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>外葉カット  １条目</value.first>
 												<value.second>
@@ -2860,11 +2854,11 @@
 							<Child>
 								<value.first>CANconnection [38]</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>1</Expanded>
+											<Expanded>0</Expanded>
 											<Child>
 												<value.first>[1]通信</value.first>
 												<value.second>
@@ -4092,7 +4086,7 @@
 					<Child>
 						<value.first>[0]  KV-X520</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>EtherCAT</value.first>
 								<value.second>
@@ -4144,7 +4138,7 @@
 							<Child>
 								<value.first>EtherNet/IP   R30000  DM10000</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>[1-0]KV-EP02</value.first>
 										<value.second>
@@ -4350,17 +4344,11 @@
 					<Child>
 						<value.first>[1]  KV-XL202    R61000  DM10600</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>PROTOCOL STUDIO</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
-									<Child>
-										<value.first>[1] RS232C/485/422_TO_CAN</value.first>
-										<value.second>
-											<Expanded>0</Expanded>
-										</value.second>
-									</Child>
+									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 							<Child>
@@ -4400,7 +4388,7 @@
 			<Child>
 				<value.first>変数</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>(Default)</value.first>
 						<value.second>
