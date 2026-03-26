@@ -559,24 +559,24 @@
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>BT_SEND_DATA:バッテリー送信データ（CAN）</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>BT_SEND_STA:バッテリー通信状態(CAN)</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>CNTER</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
+							<Child>
+								<value.first>BT_SEND_DATA:バッテリー送信データ（CAN）</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>BT_SEND_STA:バッテリー通信状態(CAN)</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>CNTER</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
 						</value.second>
 					</Child>
 					<Child>
@@ -591,6 +591,18 @@
 							</Child>
 							<Child>
 								<value.first>FLWBUD_INFO_R:花蕾情報(右)</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>RECIPE:レシピ</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>TRACKING_CONT:追跡制御</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 								</value.second>
@@ -643,12 +655,6 @@
 									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
-						</value.second>
-					</Child>
-					<Child>
-						<value.first>RECIPE:レシピ</value.first>
-						<value.second>
-							<Expanded>0</Expanded>
 						</value.second>
 					</Child>
 					<Child>
@@ -774,7 +780,7 @@
 					<Child>
 						<value.first>AutoTrack</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>AT_TRK2:自動補正走行2</value.first>
 								<value.second>
@@ -1332,7 +1338,7 @@
 					<Child>
 						<value.first>Data</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>AccumulatedTime:積算時間</value.first>
 								<value.second>
@@ -1913,6 +1919,24 @@
 											<Expanded>0</Expanded>
 										</value.second>
 									</Child>
+								</value.second>
+							</Child>
+						</value.second>
+					</Child>
+					<Child>
+						<value.first>TrackingControl:追跡制御</value.first>
+						<value.second>
+							<Expanded>0</Expanded>
+							<Child>
+								<value.first>ブックマーク</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>ローカル変数</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
 								</value.second>
 							</Child>
 						</value.second>
@@ -3188,7 +3212,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>Jetson2 [32]</value.first>
+								<value.first>Jetson2 [32]:Jetson2通信</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3230,7 +3254,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>JetsonComm [33]</value.first>
+								<value.first>JetsonComm [33]:Jetson通信共通</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -3266,7 +3290,7 @@
 								</value.second>
 							</Child>
 							<Child>
-								<value.first>KV_SSC02 [30]</value.first>
+								<value.first>KV_SSC02 [30]:高速カウンタ</value.first>
 								<value.second>
 									<Expanded>0</Expanded>
 									<Child>
@@ -4086,7 +4110,7 @@
 					<Child>
 						<value.first>[0]  KV-X520</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>EtherCAT</value.first>
 								<value.second>
@@ -4344,11 +4368,17 @@
 					<Child>
 						<value.first>[1]  KV-XL202    R61000  DM10600</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>PROTOCOL STUDIO</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
+									<Child>
+										<value.first>[1] RS232C/485/422_TO_CAN</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
 								</value.second>
 							</Child>
 							<Child>
@@ -4388,7 +4418,7 @@
 			<Child>
 				<value.first>変数</value.first>
 				<value.second>
-					<Expanded>0</Expanded>
+					<Expanded>1</Expanded>
 					<Child>
 						<value.first>(Default)</value.first>
 						<value.second>
