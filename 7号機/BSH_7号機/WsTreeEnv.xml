@@ -8,7 +8,7 @@
 			<Child>
 				<value.first>データ型</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>(System)</value.first>
 						<value.second>
@@ -780,7 +780,7 @@
 					<Child>
 						<value.first>AutoTrack</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>AT_TRK2:自動補正走行2</value.first>
 								<value.second>
@@ -2168,7 +2168,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>外葉カット  １条目</value.first>
 												<value.second>
@@ -2182,7 +2182,7 @@
 												</value.second>
 											</Child>
 											<Child>
-												<value.first>手動複数動作</value.first>
+												<value.first>手動複動動作</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>
@@ -3172,11 +3172,11 @@
 							<Child>
 								<value.first>Jetson1 [31]:Jetson1通信</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>Jetson1_ステータス</value.first>
 												<value.second>
@@ -4016,7 +4016,7 @@
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
-											<Expanded>0</Expanded>
+											<Expanded>1</Expanded>
 											<Child>
 												<value.first>まとめ操作</value.first>
 												<value.second>
@@ -4114,7 +4114,7 @@
 							<Child>
 								<value.first>EtherCAT</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
 									<Child>
 										<value.first>[1] GADS-EtheCAT(P0021375D01:28.April,2023)</value.first>
 										<value.second>
@@ -4368,7 +4368,7 @@
 					<Child>
 						<value.first>[1]  KV-XL202    R61000  DM10600</value.first>
 						<value.second>
-							<Expanded>1</Expanded>
+							<Expanded>0</Expanded>
 							<Child>
 								<value.first>PROTOCOL STUDIO</value.first>
 								<value.second>
@@ -4418,7 +4418,7 @@
 			<Child>
 				<value.first>変数</value.first>
 				<value.second>
-					<Expanded>1</Expanded>
+					<Expanded>0</Expanded>
 					<Child>
 						<value.first>(Default)</value.first>
 						<value.second>
