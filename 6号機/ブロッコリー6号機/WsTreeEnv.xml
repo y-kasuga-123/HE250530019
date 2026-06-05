@@ -102,7 +102,7 @@
 					<Child>
 						<value.first>同期制御設定</value.first>
 						<value.second>
-							<Expanded>0</Expanded>
+							<Expanded>1</Expanded>
 							<Child>
 								<value.first>カム設定</value.first>
 								<value.second>
@@ -118,7 +118,13 @@
 							<Child>
 								<value.first>同期パラメータ</value.first>
 								<value.second>
-									<Expanded>0</Expanded>
+									<Expanded>1</Expanded>
+									<Child>
+										<value.first>軸10:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
 									<Child>
 										<value.first>軸1:</value.first>
 										<value.second>
@@ -163,6 +169,12 @@
 									</Child>
 									<Child>
 										<value.first>軸8:</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>軸9:</value.first>
 										<value.second>
 											<Expanded>0</Expanded>
 										</value.second>
