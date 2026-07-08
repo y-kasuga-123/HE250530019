@@ -1,4 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Categories />
+  <Categories>
+    <Category Name="ReproductionMode">
+      <ParameterSet>
+        <Parameter Name="TroubleRecordOpenPath">C:\Users\y_kas\OneDrive\Desktop\000_異常発生_クローラ異常_20251223095926\000_異常発生_ｸﾛｰﾗ異常_20251223095926\record.UMN</Parameter>
+      </ParameterSet>
+    </Category>
+  </Categories>
 </Root>
