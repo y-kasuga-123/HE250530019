@@ -2164,7 +2164,7 @@
 							<Child>
 								<value.first>Auto [8]:自動</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -2248,7 +2248,7 @@
 							<Child>
 								<value.first>AutoTrack [36]:自動補正走行</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -3172,7 +3172,7 @@
 							<Child>
 								<value.first>Jetson1 [31]:Jetson1通信</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -3214,7 +3214,7 @@
 							<Child>
 								<value.first>Jetson2 [32]:Jetson2通信</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -3418,7 +3418,7 @@
 							<Child>
 								<value.first>Motion [13]:KV-X520</value.first>
 								<value.second>
-									<Expanded>1</Expanded>
+									<Expanded>0</Expanded>
 									<Child>
 										<value.first>ブックマーク</value.first>
 										<value.second>
@@ -3995,6 +3995,30 @@
 											</Child>
 											<Child>
 												<value.first>画面切換</value.first>
+												<value.second>
+													<Expanded>0</Expanded>
+												</value.second>
+											</Child>
+										</value.second>
+									</Child>
+									<Child>
+										<value.first>ローカル変数</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+										</value.second>
+									</Child>
+								</value.second>
+							</Child>
+							<Child>
+								<value.first>demo [39]:デモ運転</value.first>
+								<value.second>
+									<Expanded>0</Expanded>
+									<Child>
+										<value.first>ブックマーク</value.first>
+										<value.second>
+											<Expanded>0</Expanded>
+											<Child>
+												<value.first>	§デモ運転</value.first>
 												<value.second>
 													<Expanded>0</Expanded>
 												</value.second>

@@ -2,25 +2,6 @@
 <DocumentWindowInfoForMDI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <All>
     <DocumentWindowInfoForMDIElement>
-      <Name>TP</Name>
-      <SaveKey>[Ladder]TP</SaveKey>
-      <Bounds>
-        <Location>
-          <X>208</X>
-          <Y>208</Y>
-        </Location>
-        <Size>
-          <Width>624</Width>
-          <Height>326</Height>
-        </Size>
-        <X>208</X>
-        <Y>208</Y>
-        <Width>624</Width>
-        <Height>326</Height>
-      </Bounds>
-      <WindowState>Normal</WindowState>
-    </DocumentWindowInfoForMDIElement>
-    <DocumentWindowInfoForMDIElement>
       <Name>手動</Name>
       <SaveKey>[Ladder]手動</SaveKey>
       <Bounds>
@@ -116,21 +97,40 @@
       <WindowState>Normal</WindowState>
     </DocumentWindowInfoForMDIElement>
     <DocumentWindowInfoForMDIElement>
-      <Name>ｸﾛｰﾗ・ｺﾝﾍﾞｱ動作</Name>
-      <SaveKey>[Ladder]ｸﾛｰﾗ・ｺﾝﾍﾞｱ動作</SaveKey>
+      <Name>[1] 軸制御設定</Name>
+      <SaveKey>[JaguarAxisSetup]1</SaveKey>
       <Bounds>
         <Location>
-          <X>104</X>
-          <Y>104</Y>
+          <X>312</X>
+          <Y>312</Y>
         </Location>
         <Size>
           <Width>300</Width>
           <Height>300</Height>
         </Size>
-        <X>104</X>
-        <Y>104</Y>
+        <X>312</X>
+        <Y>312</Y>
         <Width>300</Width>
         <Height>300</Height>
+      </Bounds>
+      <WindowState>Normal</WindowState>
+    </DocumentWindowInfoForMDIElement>
+    <DocumentWindowInfoForMDIElement>
+      <Name>Jetson1</Name>
+      <SaveKey>[Ladder]Jetson1</SaveKey>
+      <Bounds>
+        <Location>
+          <X>0</X>
+          <Y>0</Y>
+        </Location>
+        <Size>
+          <Width>624</Width>
+          <Height>326</Height>
+        </Size>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>624</Width>
+        <Height>326</Height>
       </Bounds>
       <WindowState>Normal</WindowState>
     </DocumentWindowInfoForMDIElement>
@@ -154,19 +154,19 @@
       <WindowState>Normal</WindowState>
     </DocumentWindowInfoForMDIElement>
     <DocumentWindowInfoForMDIElement>
-      <Name>[1] 軸制御設定</Name>
-      <SaveKey>[JaguarAxisSetup]1</SaveKey>
+      <Name>ｸﾛｰﾗ・ｺﾝﾍﾞｱ動作</Name>
+      <SaveKey>[Ladder]ｸﾛｰﾗ・ｺﾝﾍﾞｱ動作</SaveKey>
       <Bounds>
         <Location>
-          <X>312</X>
-          <Y>312</Y>
+          <X>104</X>
+          <Y>104</Y>
         </Location>
         <Size>
           <Width>300</Width>
           <Height>300</Height>
         </Size>
-        <X>312</X>
-        <Y>312</Y>
+        <X>104</X>
+        <Y>104</Y>
         <Width>300</Width>
         <Height>300</Height>
       </Bounds>
